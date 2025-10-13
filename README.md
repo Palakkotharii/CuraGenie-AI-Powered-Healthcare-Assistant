@@ -38,3 +38,7 @@ A multi-feature Streamlit application that combines **Generative AI (Google Gemi
 git clone https://github.com/Palakkotharii/CuraGenie-AI-Powered-Healthcare-Assistant.git
 cd CuraGenie-AI-Powered-Healthcare-Assistant
 
+### 2️⃣ Run the Application
+```bash
+streamlit run app.py
+
