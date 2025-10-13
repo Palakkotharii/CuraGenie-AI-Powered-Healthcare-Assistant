@@ -29,7 +29,7 @@ It offers a seamless healthcare experience — from **symptom diagnosis** to **a
 - **Computer Vision/OCR:** OpenCV, pytesseract  
 - **Voice/Speech:** SpeechRecognition, pyttsx3  
 - **APIs:** Google Calendar API, Google Cloud Services  
-- **Utilities:** NumPy, tabulate, re  
+- **Utilities:** NumPy, tabulate
 
 ---
 
@@ -37,7 +37,7 @@ It offers a seamless healthcare experience — from **symptom diagnosis** to **a
 
 ### 1️⃣ Prerequisites  
 - Python **3.8+**  
-- **Tesseract OCR** installed and added to your system path.  
+- **Tesseract OCR** installed and add to your system path.  
 
 ### 2️⃣ Clone the Repository  
 ```bash
