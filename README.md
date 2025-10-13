@@ -43,7 +43,9 @@ It offers a seamless healthcare experience — from **symptom diagnosis** to **a
 ```bash
 git clone https://github.com/Palakkotharii/CuraGenie-AI-Powered-Healthcare-Assistant.git
 cd CuraGenie-AI-Powered-Healthcare-Assistant
+```
 
-3️⃣ Run the Application
+### 3️⃣ Run the Application
+```bash
 streamlit run app.py
-
+```
